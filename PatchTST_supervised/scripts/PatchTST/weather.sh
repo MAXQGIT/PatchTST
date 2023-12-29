@@ -1,5 +1,5 @@
-cd /root/ma_python/PatchTST/PatchTST_supervised
 
+cd /root/ma_python/PatchTST/PatchTST_supervised
 seq_len=336
 model_name=PatchTST
 
